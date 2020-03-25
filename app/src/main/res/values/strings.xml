@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="sign_in">Sign In</string>
+    <string name="textview">TextView</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="don_t_have_a_device">Don\'t have a device?</string>
+    <string name="pair_device">Pair Device</string>
+    <string name="new_user">New user?</string>
+    <string name="signup_done">SignUp Done</string>
+    <string name="new_user2">New User</string>
+    <string name="full_name">Full Name</string>
+    <string name="create_account">Create Account</string>
+    <string name="todo">TODO</string>
+    <string name="name">Name</string>
+    <string name="mdp16">MDP16</string>
+    <string name="image">IMAGE</string>
+    <string name="todo1">TODO1</string>
+    <string name="mail">MAIL</string>
+    <string name="lock">LOCK</string>
+    <string name="mail1">TODO</string>
+    <string name="lock2">LOCK2</string>
+    <string name="rafic_houssari">Rafic Houssari</string>
+    <string name="online">Online</string>
+    <string name="capture">CAPTURE</string>
+    <string name="zoomout">ZOOMOUT</string>
+    <string name="zoomin">ZOOMIN</string>
+    <string name="plus">PLUS</string>
+    <string name="sign_out">Sign out</string>
+    <string name="click_to_pair">Click to pair</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image1">IMAGE1</string>
+    <string name="app_intro">appintro</string>
+    <string name="whether_it_s_for_safety_or_simply_for_monitoring_surveillance_should_be_taken_seriously">Whether it\'s for safety or simply for monitoring, surveillance should be taken seriously.</string>
+    <string name="intro1">INTRO1</string>
+    <string name="with_the_help_of_our_mdp16_we_will_be_providing_controllable_cameras_accessible_wherever_you_go">With the help of our MDP16, we will be providing controllable cameras accessible wherever you go.</string>
+    <string name="our_devices_are_equipped_with_face_detection_techniques_to_keep_track_of_the_people_who_were_in_range">Our devices are equipped with face detection techniques to keep track of the people who were in range.</string>
+    <string name="we_can_assure_quality_and_reliability_through_our_secure_network">We can assure quality and reliability through our secure network.</string>
+</resources>
